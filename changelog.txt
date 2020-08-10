@@ -7,3 +7,5 @@ All notable changes to this project will be documented in this file.
 - Express.
 - Connection to database.
 - User model
+- Registration routes
+- JWT token
