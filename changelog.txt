@@ -1,3 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2020-08-10
+### Added
+- Default configuration.
+- Express.
+- Connection to database.
+- User model
+- Registration routes
+- JWT token
