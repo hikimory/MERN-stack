@@ -1,0 +1,16 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "express"
+  ],
+  "author": "Nick Bykon <nikita.bikon@gmail.com>",
+  "license": "ISC"
+}
