@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - Rect routes for pages.
 - Content of Auth page.
 - Custom http hook.
+- Custom message hook for server messages.
 
 ## [1.1.0] - 2020-08-10
 ### Added
