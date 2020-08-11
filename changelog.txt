@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2020-08-11
+### Added
+- Applacation context.
+- Custom authorization hook.
+
 ## [1.2.0] - 2020-08-10
 ### Added
 - Default react app.
